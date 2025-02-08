@@ -6,7 +6,8 @@
 
 ## Command Install :
 
-```bash <(curl -s https://raw.githubusercontent.com/ziaulhaq120/Themes-main/main/install.sh)
+```bash
+bash <(curl -s https://raw.githubusercontent.com/ziaulhaq120/Themes-main/main/install.sh)
 ```
 
 ## Fitur Tools :
