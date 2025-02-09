@@ -32,5 +32,5 @@ bash <(curl -s https://raw.githubusercontent.com/ziaulhaq120/Themes-main/main/in
 _\* di atas adalah os yang saya test, selebihnya bisa di test sendiri._
 
 ## Credits 
-- Recode By [ ZIA ](https://github.com/ziaulhaq120)
+- Recode By [ ziaulhaq120 ](https://github.com/ziaulhaq120)
 - Created by [ FOXSTORE ](https://github.com/Foxstoree)
